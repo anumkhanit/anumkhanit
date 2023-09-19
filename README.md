@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring VPNs On-premises within Azure VMs](https://github.com/anumkhanit/)
+  - [Configuring VPNs On-premises within Azure VMs](https://github.com/anumkhanit/vpn-config)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/anumkhanit/)
   - [Building Intuition for DNS within Active Directory on Azure VMs](https://github.com/anumkhanit/)
   - [Configuring Network Files Shares and Permissions within Azure VMs](https://github.com/anumkhanit/)
