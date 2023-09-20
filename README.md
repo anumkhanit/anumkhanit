@@ -7,8 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring VPNs On-premises within Azure VMs](https://github.com/anumkhanit/vpn-config)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/anumkhanit/active-direct)
+- <b>Virtual Private Network (VPN)</b>
+- [Configuring VPNs On-premises within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
 
 <h2>🤳Connect with me:</h2>
 
