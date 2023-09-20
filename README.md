@@ -6,10 +6,11 @@
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring on Active Directory within Azure VMs](https://github.com/anumkhanit/active-direct)
   - [Building Intuition with DNS](https://github.com/anumkhanit/buildingintuition-dns)
   - [Network File Shares and Permissions](https://github.com/anumkhanit/networkfile-shareandpremission)
+- <b>Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anumkhanit/azure-network-protocols)
 - <b>Virtual Private Network (VPN)</b>
   - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
