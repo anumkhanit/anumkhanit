@@ -8,11 +8,10 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring VPNs On-premises within Azure VMs](https://github.com/anumkhanit/vpn-config)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/anumkhanit/)
-  - [Building Intuition for DNS within Active Directory on Azure VMs](https://github.com/anumkhanit/)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/anumkhanit/active-direct)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anum" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/anumkhanit
