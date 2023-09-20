@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring on Active Directory within Azure VMs](https://github.com/anumkhanit/active-direct)
 - <b>Virtual Private Network (VPN)</b>
-  - [Set Up VPNs within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
+  - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
 
 <h2>🤳Connect with me:</h2>
 
