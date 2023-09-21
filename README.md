@@ -3,9 +3,9 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/anumkhanit/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/anumkhanit/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/anumkhanit/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Configuring on Active Directory within Azure VMs](https://github.com/anumkhanit/active-direct)
   - [Building Intuition with DNS](https://github.com/anumkhanit/buildingintuition-dns)
