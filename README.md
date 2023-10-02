@@ -2,9 +2,7 @@
   <img src="https://i.imgur.com/tE58pKz.png" height= "70%" width="70%"/>
 </div>
 
-# Hi there! I'm Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</h1>
-
-# About Me <a href="https://linkedin.com/in/anumkhanit">
+# Hi there!
 
 My path as a **writer** and a **doer** has been a unique and spiritual one, merging the mystical allure of supernatural thrillers with the heart-pounding excitement of romance, all while remaining rooted in my Christian faith and the belief that I have a divine purpose. 
 
@@ -31,5 +29,5 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at So
 
 # 🤳Connect with me
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anumkhanit)
+[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anumkhanit)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anumkit@gmail.com)
