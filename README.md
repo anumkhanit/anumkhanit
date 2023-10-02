@@ -2,9 +2,13 @@
 
 ## About Me
 
-My journey as a **writer** has been whacky and different, blending the mystical allure of supernatural thrillers with the heart-pounding excitement of romance, all while embracing the ever-evolving world of **technology**. Born from Pakistan and have lived in the USA since 2008.
+My path as a **writer** and a **doer** has been a unique and spiritual one, merging the mystical allure of supernatural thrillers with the heart-pounding excitement of romance, all while remaining rooted in my Christian faith and the belief that I have a divine purpose. 
 
-I'm currently pursuing an Associate Degree in **Information Technology** at Southern New Hampshire University (SNHU) and CourseCareers, where I'm honing my tech skills, learning about **Scripting**, **Network Sharing and Security Protocols**, **Active Directory**, **Ticketing System**, and many more.
+I was born in Pakistan and have been living in the USA since 2008, where I've discovered my calling as both a writer and a faithful follower of Jesus.
+
+Currently, I am pursuing an Associate Degree in **Information Technology** at Southern New Hampshire University (SNHU) and CourseCareers. Through this journey, I am not only honing my technical skills but also integrating my Christian values into my education. I am delving into subjects such as **Scripting**, **Network Sharing and Security Protocols**, **Active Directory**, **Ticketing System**, and many more, all with the conviction that my purpose extends beyond technology to serve a higher calling.
+
+-----
 
 <h2>Information Technology Projects</h2>
 
