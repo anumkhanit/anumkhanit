@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/tE58pKz.png" height= "70%" width="70%"/>
 </div>
 
-# Hi there!
+<h1>Hi there! <a href="https://linkedin.com/in/anumkhanit"></a></h1>
 
 My path as a **writer** and a **doer** has been a unique and spiritual one, merging the mystical allure of supernatural thrillers with the heart-pounding excitement of romance, all while remaining rooted in my Christian faith and the belief that I have a divine purpose. 
 
@@ -12,7 +12,7 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at So
 
 -----
 
-<h2>Information Technology Projects</h2>
+## Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/anumkhanit/osticket-prereqs)
@@ -26,6 +26,15 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at So
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anumkhanit/azure-network-protocols)
 - <b>Virtual Private Network (VPN)</b>
   - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
+ 
+-----
+
+## 🛠️ Skills
+
+### Virtual Computing
+
+![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=adobe-xd&logoColor=white)
+
 
 # 🤳Connect with me
 
