@@ -27,7 +27,7 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at So
 
 ## 🛠️ Skills
 
-### Virtual Computing
+### Cloud Computing
 
 ![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
