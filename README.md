@@ -1,4 +1,4 @@
-# Hi there! My name is Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</h1>
+# Hi there! I'm Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</h1>
 
 ## About Me
 
