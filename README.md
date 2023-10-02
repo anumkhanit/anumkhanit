@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/tE58pKz.png" height= "100%" width="100%"/>
+  <a href="https://linkedin.com/in/anumkhanit">
 </div>
 
 # Hi there! I'm Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</h1>
