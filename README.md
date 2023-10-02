@@ -4,7 +4,7 @@
 
 # Hi there! I'm Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</h1>
 
-## [About Me](<a href="https://linkedin.com/in/anumkhanit">)
+# About Me <a href="https://linkedin.com/in/anumkhanit">
 
 My path as a **writer** and a **doer** has been a unique and spiritual one, merging the mystical allure of supernatural thrillers with the heart-pounding excitement of romance, all while remaining rooted in my Christian faith and the belief that I have a divine purpose. 
 
