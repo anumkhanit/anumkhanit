@@ -29,7 +29,11 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at So
 
 ### Cloud Computing
 
-![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
+
+### Operating Systems
+
+![Windows 10](https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=Windows10&logoColor=white)
 
 -----
 
