@@ -4,7 +4,7 @@ My path as a **writer** and a **doer** has been a unique and spiritual one, merg
 
 I was born in Pakistan and have been living in the USA since 2008, where I've discovered my calling as both a writer and a faithful follower of Jesus.
 
-Currently, I am pursuing an Associate Degree in **Information Technology** at Southern New Hampshire University (SNHU) and CourseCareers. Through this journey, I am not only honing my technical skills but also integrating my Christian values into my education. I am delving into subjects such as **Scripting**, **Network Sharing and Security Protocols**, **Active Directory**, **Ticketing System**, and many more, all with the conviction that my purpose extends beyond technology to serve a higher calling.
+Currently, I am pursuing an Associate Degree in **Information Technology** at [Southern New Hampshire University](https://www.snhu.edu) and [CourseCareers](https://coursecareers.com/). Through this journey, I am not only honing my technical skills but also integrating my Christian values into my education. I am delving into subjects such as **Scripting**, **Network Sharing and Security Protocols**, **Active Directory**, **Ticketing System**, and many more, all with the conviction that my purpose extends beyond technology to serve a higher calling.
 
 -----
 
