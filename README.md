@@ -34,6 +34,9 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at So
 ### Operating Systems
 
 ![Windows 10](https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=Windows10&logoColor=white)
+![Apple](https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=Apple&logoColor=white)
+![Googlechrome](https://img.shields.io/badge/ChromeOs-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
 
 -----
 
