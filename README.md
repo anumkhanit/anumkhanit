@@ -22,7 +22,9 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at [S
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anumkhanit/azure-network-protocols)
 - <b>Virtual Private Network (VPN)</b>
   - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
-- <b>Cybersecurity</b>
+ 
+## Cybersecurity Projects
+- <b>SIEM</b>
   - [Configuring on SIEM within Azure](https://github.com/anumkhanit/siem-azure)
 - <b>File Integrity Monitoring</b>
   - [Create a Custom FIM](https://github.com/anumkhanit/custom-fim)
@@ -44,6 +46,10 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at [S
 ![Windows 10](https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=Windows10&logoColor=white)
 ![Apple](https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![Googlechrome](https://img.shields.io/badge/ChromeOs-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
+### Computer Tools
+
+![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 
 
 -----
