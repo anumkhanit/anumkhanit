@@ -10,19 +10,32 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at [S
 
 ## Information Technology Projects
 
+### Microsoft Azure
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/anumkhanit/osticket-prereqs)
   - [osTicket: Post-Installation Configuration (Part 2)](https://github.com/anumkhanit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Configuring on Active Directory within Azure VMs](https://github.com/anumkhanit/active-direct)
+  - [Configuring on Active Directory within Azure](https://github.com/anumkhanit/active-direct)
   - [Building Intuition with DNS](https://github.com/anumkhanit/buildingintuition-dns)
   - [Network File Shares and Permissions](https://github.com/anumkhanit/networkfile-shareandpremission)
 - <b>Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anumkhanit/azure-network-protocols)
 - <b>Virtual Private Network (VPN)</b>
   - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
- 
+- <b>Cybersecurity</b>
+  - [Configuring on SIEM within Azure](https://github.com/anumkhanit/siem-azure)
+
+### Home Lab
+
+- <b>File Integrity Monitoring</b>
+  - [Creating a Custom FIM](https://github.com/anumkhanit/custom-fim)
+- <b>Vulnerability Management</b>
+  - [Creating a Vulnerability Management](https://github.com/anumkhanit/vulnerable-manage)
+- <b>REST API</b>
+  - [Creating a REST API](https://github.com/anumkhanit/rest-api)
+
 -----
 
 ## 🛠️ Skills
