@@ -14,8 +14,6 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at [S
   - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/anumkhanit/osticket-prereqs)
   - [osTicket: Post-Installation Configuration (Part 2)](https://github.com/anumkhanit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
-- <b>Active Directory</b>
-  - [Configuring on Active Directory within Powershell](https://github.com/anumkhanit/active-direct)
 - <b>Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anumkhanit/azure-network-protocols)
 - <b>Virtual Private Network (VPN)</b>
