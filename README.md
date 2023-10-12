@@ -8,7 +8,7 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at [S
 
 -----
 
-## Information Technology Projects
+## 💻 Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/anumkhanit/osticket-prereqs)
@@ -19,9 +19,7 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at [S
 - <b>Virtual Private Network (VPN)</b>
   - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
  
-## Cybersecurity Projects
-- <b>SIEM</b>
-  - [Configuring on SIEM within Azure](https://github.com/anumkhanit/siem-azure)
+## 🚨 Cybersecurity Projects
 - <b>File Integrity Monitoring</b>
   - [Create a Custom FIM](https://github.com/anumkhanit/custom-fim)
 - <b>Vulnerability Management</b>
