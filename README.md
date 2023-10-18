@@ -19,7 +19,7 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at [S
 - <b>Virtual Private Network (VPN)</b>
   - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
 - <b>Deploying Active Directory and Creating Users</b>
-  - [Setting Up Active Directory on Users](https://github.com/anumkhanit/active-direct)
+  - [Setting Up Active Directory on Azure](https://github.com/anumkhanit/active-direct)
 
 -----
 
