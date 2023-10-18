@@ -18,14 +18,6 @@ Currently, I am pursuing an Associate Degree in **Information Technology** at [S
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anumkhanit/azure-network-protocols)
 - <b>Virtual Private Network (VPN)</b>
   - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
- 
-## 🚨 Cybersecurity Projects
-- <b>File Integrity Monitoring</b>
-  - [Create a Custom FIM](https://github.com/anumkhanit/custom-fim)
-- <b>Vulnerability Management</b>
-  - [Creating a VM](https://github.com/anumkhanit/vulnerable-manage)
-- <b>REST API</b>
-  - [Creating a REST API](https://github.com/anumkhanit/rest-api)
 
 -----
 
