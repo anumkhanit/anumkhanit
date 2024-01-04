@@ -2,7 +2,7 @@
 
 My path as a **writer** and a **doer** has been a unique journey, merging the mystical allure of supernatural thrillers with the heart-pounding excitement of romance, all while remaining rooted in my Christian faith and the ambition of wanting to learn more in tech.
 
-Currently, I am pursuing a certificate of **Information Technology** at [CourseCareers](https://coursecareers.com/). Through this journey, I am not only honing my technical skills but also integrating my Christian values. I am delving into subjects such as **Microsoft Azure**, **Network Sharing and Security Protocols**, **Ticketing System**, and more, all with the conviction that my purpose extends beyond technology to serve a higher calling.
+Currently, I am pursuing a certificate of **Information Technology** at [CourseCareers](https://coursecareers.com/). Through this journey, I am not only honing my technical skills but also integrating my Christian values. I am delving into subjects such as Cloud Computing like **Microsoft Azure**, **Network Sharing and Security Protocols**, **Ticketing System**, and more, all with the conviction that my purpose extends beyond technology to serve a higher calling.
 
 -----
 
