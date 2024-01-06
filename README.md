@@ -1,7 +1,5 @@
 # Hi, I'm Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</a>
 
-My path as a **writer** and a **doer** has been a unique journey, merging the mystical allure of supernatural thrillers with the heart-pounding excitement of romance, all while remaining rooted in my Christian faith and the ambition of wanting to learn more in tech. Currently, I am pursuing a certificate of **Information Technology** at [CourseCareers](https://coursecareers.com/). I am delving into projects such as **Microsoft Azure**, **Network Sharing and Security Protocols**, **Ticketing System**, and more.
-
 -----
 
 ## 💻 Information Technology Projects
