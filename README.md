@@ -1,7 +1,5 @@
 # Hi, I'm Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</a>
 
------
-
 ## 💻 Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
