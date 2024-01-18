@@ -8,8 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
 - <b>Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anumkhanit/azure-network-protocols)
-- <b>Virtual Private Network (VPN)</b>
-  - [Set Up VPN within Microsoft Azure VMs](https://github.com/anumkhanit/vpn-config)
 - <b>Deploying Active Directory and Creating Users</b>
   - [Setting Up Active Directory on Azure](https://github.com/anumkhanit/active-direct)
 
