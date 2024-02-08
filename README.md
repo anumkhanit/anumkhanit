@@ -53,4 +53,4 @@ Currently, I'm focused on:
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anumkhanit)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anumkit@gmail.com)
 
-Feel free to reach out if you'd like to collaborate on a project, discuss technical writing opportunities, or simply chat about technology and writing!
+Feel free to reach out if you'd like to discuss technical writing or IT opportunities, or simply chat about technology and writing!
