@@ -8,7 +8,7 @@ I am a passionate writer with a keen interest in technology. My journey in the t
 
 Currently, I'm focused on:
 
-- Gaining new sights on IT Fundamentals at <a href="https://coursecareers.com">CourseCareers & <a href="https://coursera.com">Coursera</a>
+- Gaining new sights on IT Fundamentals at <a href="https://coursecareers.com">CourseCareers</a> & <a href="https://coursera.com">Coursera</a>
 - Enhancing my technical writing skills by exploring new documentation tools and reports.
 - Exploring emerging technologies and writing articles to educate and inform the community.
 
