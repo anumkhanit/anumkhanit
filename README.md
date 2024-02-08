@@ -46,7 +46,6 @@ Currently, I'm focused on:
 
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 
-
 -----
 
 # Get in Touch
