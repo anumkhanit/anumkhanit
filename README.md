@@ -13,7 +13,7 @@ Currently, I'm focused on:
 - Exploring emerging technologies and writing articles to educate and inform the community.
 
 
-## 💻 Information Technology Projects
+## Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/anumkhanit/osticket-prereqs)
@@ -26,7 +26,7 @@ Currently, I'm focused on:
 
 -----
 
-## 🛠️ Skills
+## Skills
 
 - **Technical Writing:** Proficient in creating technical documentation, tutorials, guides, and articles for a diverse range of audiences.
 - **Programming Languages:** Familiar with languages such as Python.
