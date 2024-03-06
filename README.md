@@ -26,9 +26,14 @@ Currently, I'm focused on:
 
 # Skills
 
-- **Written Communication:** Proficient in creating technical documentation, tutorials, guides, and articles for a diverse range of audiences.
-- **Programming Languages:** Familiar with languages such as Python.
-- **Content Management Systems (CMS):** Skilled in working with platforms like WordPress for web content creation.
+### Written Communication
+Proficient in creating technical documentation, tutorials, guides, and articles for a diverse range of audiences.
+
+### Programming Languages
+Familiar with languages such as Python.
+
+### Content Management Systems (CMS)
+Skilled in working with platforms like WordPress for web content creation.
 
 ### Cloud Computing
 
