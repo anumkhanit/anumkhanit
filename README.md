@@ -2,7 +2,7 @@
 
 ## About Me
 
-My journey began with a curiosity for understanding how software and systems work, leading me to learn in areas like network security and open-source operating systems. 
+Passionate about Information Technology, I have a strong foundation in IT Fundamentals, including osTicket, Active Directory, and Networking. My journey began with a curiosity for understanding how software and systems work, leading me to learn in areas like network security and open-source operating systems. 
 
 # What I'm Working On
 
