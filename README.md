@@ -9,8 +9,6 @@ Passionate about Information Technology, I have a strong foundation in IT Fundam
 Currently, I'm focused on:
 
 - Gaining new sights on IT Fundamentals at <a href="https://coursecareers.com">CourseCareers</a> & <a href="https://coursera.com">Coursera</a>
-- Enhancing my technical writing skills by exploring new documentation tools and reports.
-- Exploring emerging technologies and writing articles to educate and inform the community.
 
 
 ## Information Technology Projects
