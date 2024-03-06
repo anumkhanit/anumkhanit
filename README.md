@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a writer with a keen interest in technology. My journey in the tech world began as a hobbyist tinkering with computers or learning about cloud computing, and it led me to explore the realm of both technology and technical writing. I enjoy distilling complex concepts into clear, concise, and engaging content that helps readers understand and appreciate technology better.
+My journey began with a curiosity for understanding how software and systems work, leading me to learn in areas like network security and open-source operating systems. 
 
 # What I'm Working On
 
