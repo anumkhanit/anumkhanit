@@ -5,7 +5,7 @@
 I have a strong foundation in IT Fundamentals, including osTicket, Active Directory, and Networking. My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security and more.
 
 ### 😂 Here is a random joke that'll break the ice!
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&qColor=%23944bcc&aColor=%23bbdb51)
 
 # What I'm Working On
 
