@@ -9,7 +9,7 @@ I have a strong foundation in IT Fundamentals, including osTicket, Active Direct
 Currently, I'm focused on:
 
 - Gaining new sights on IT Fundamentals at <a href="https://coursecareers.com">CourseCareers</a> & <a href="https://coursera.com">Coursera</a>
-
+- Learning a programming language Python
 
 ## Information Technology Projects
 
@@ -24,16 +24,15 @@ Currently, I'm focused on:
 
 -----
 
-# Skills
+# Interpersonal Skills
 
 ### Written Communication
 Proficient in creating technical documentation, tutorials, guides, and articles for a diverse range of audiences.
 
-### Programming Languages
-Familiar with languages such as Python.
+# Technical Skills
 
 ### Content Management Systems (CMS)
-Skilled in working with platforms like WordPress for web content creation.
+
 
 ### Cloud Computing
 
@@ -48,6 +47,11 @@ Skilled in working with platforms like WordPress for web content creation.
 ### Computer Tools
 
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+
+-----
+
+# 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 -----
 
