@@ -2,7 +2,10 @@
 
 ## About Me
 
-I have a strong foundation in IT Fundamentals, including osTicket, Active Directory, and Networking. My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security and more. 
+I have a strong foundation in IT Fundamentals, including osTicket, Active Directory, and Networking. My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security and more.
+
+### 😂 Here is a random joke that'll break the ice!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # What I'm Working On
 
@@ -49,6 +52,3 @@ Proficient in creating technical documentation, tutorials, guides, and articles 
 
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anumkhanit)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anumkit@gmail.com)
-
-# 😂 Here is a random joke that'll break the ice!
-![Jokes Card](https://readme-jokes.vercel.app/api)
