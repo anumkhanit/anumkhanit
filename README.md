@@ -22,8 +22,6 @@ Currently, I'm focused on:
 - <b>Deploying Active Directory and Creating Users</b>
   - [Setting Up Active Directory on Azure](https://github.com/anumkhanit/active-direct)
 
------
-
 # Interpersonal Skills
 
 ### Written Communication
@@ -47,12 +45,8 @@ Proficient in creating technical documentation, tutorials, guides, and articles 
 
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 
------
-
 # 😂 Here is a random joke that'll break the ice!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
------
 
 # Get in Touch
 
