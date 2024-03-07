@@ -32,10 +32,10 @@ Proficient in creating technical documentation, tutorials, guides, and articles 
 # Technical Skills
 
 ### Content Management Systems (CMS)
-![WordPress](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### Cloud Computing
-![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
 
 ### Operating Systems
 
