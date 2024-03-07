@@ -32,11 +32,10 @@ Proficient in creating technical documentation, tutorials, guides, and articles 
 # Technical Skills
 
 ### Content Management Systems (CMS)
-
+![WordPress](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
 
 ### Cloud Computing
-
-![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### Operating Systems
 
@@ -50,7 +49,7 @@ Proficient in creating technical documentation, tutorials, guides, and articles 
 
 -----
 
-# 😂 Here is a random joke that'll make you laugh!
+# 😂 Here is a random joke that'll break the ice!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 -----
