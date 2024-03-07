@@ -1,4 +1,4 @@
-# Hi there, I'm Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there, I'm Anum, an <a href="https://linkedin.com/in/anumkhanit">IT Professional</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## About Me
 
