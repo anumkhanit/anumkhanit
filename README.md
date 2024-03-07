@@ -28,7 +28,7 @@ Currently, I'm focused on:
 # Interpersonal Skills
 
 ### Written Communication
-Proficient in creating technical documentation, tutorials, guides, and articles for a diverse range of audiences.
+I create technical documentation, tutorials/guides, and articles for a diverse range of audiences, specializing in Information Technology topics.
 
 # Technical Skills
 
