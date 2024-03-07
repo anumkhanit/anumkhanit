@@ -20,7 +20,7 @@ Currently, I'm focused on:
   - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/anumkhanit/osticket-prereqs)
   - [osTicket: Post-Installation Configuration (Part 2)](https://github.com/anumkhanit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
-- <b>Network Security Groups</b>
+- <b>Network Security Groups (NSGs)</b>
   - [Using Wireshark to Monitor Network Traffic with Virtual Machines](https://github.com/anumkhanit/azure-network-protocols)
 - <b>Deploying Active Directory and Creating Users</b>
   - [Setting Up Active Directory on Azure](https://github.com/anumkhanit/active-direct)
