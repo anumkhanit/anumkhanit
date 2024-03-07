@@ -11,7 +11,7 @@ I have a strong foundation in IT Fundamentals, including osTicket, Active Direct
 
 Currently, I'm focused on:
 
-- Gaining new sights on IT Fundamentals at <a href="https://coursecareers.com">CourseCareers</a> & <a href="https://coursera.com">Coursera</a>
+- Gaining new sights on IT Fundamentals & Google IT Support at <a href="https://coursecareers.com">CourseCareers</a> & <a href="https://coursera.com">Coursera</a>
 - Learning a programming language Python
 
 ## Information Technology Projects
