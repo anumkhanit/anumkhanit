@@ -4,9 +4,6 @@
 
 My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security, IT fundamentals, and more.
 
-### 😂 Here is a random joke that'll break the ice!
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&qColor=%23944bcc&aColor=%23bbdb51)
-
 # What I'm Working On
 
 Currently, I'm focused on:
