@@ -19,8 +19,6 @@ Currently, I'm focused on:
   - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
 - <b>Network Security Groups (NSGs)</b>
   - [Using Wireshark with Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
-- <b>Deploying Active Directory and Creating Users</b>
-  - [Setting Up Active Directory on Azure](https://github.com/anumkhanit/active-direct)
 
 # Interpersonal Skills
 
