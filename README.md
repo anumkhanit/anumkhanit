@@ -8,8 +8,7 @@ My journey began with a curiosity for understanding how software and systems wor
 
 Currently, I'm focused on:
 
-- Gaining new sights on IT Fundamentals & IT Support at <a href="https://coursecareers.com">CourseCareers</a> & <a href="https://coursera.com">Coursera</a>
-- Learning a programming language Python
+- Gaining new sights on the basics of IT and IT Support at <a href="https://coursecareers.com">CourseCareers</a>
 
 ## Information Technology Projects
 
@@ -19,11 +18,13 @@ Currently, I'm focused on:
   - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
 - <b>Network Security Groups (NSGs)</b>
   - [Using Wireshark with Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
+- <b>Deploying Active Directory and Creating Users</b>
+  - [Setting Up Active Directory on Azure with Powershell ISE]
 
 # Interpersonal Skills
 
 ### Written Communication
-I create technical documentation, tutorials/guides, and articles for a diverse range of audiences, specializing in Information Technology topics.
+I create tutorials/guides for a diverse range of audiences, specializing in Information Technology topics.
 
 # Technical Skills
 
