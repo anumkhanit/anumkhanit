@@ -19,7 +19,7 @@ Currently, I'm focused on:
 - <b>Network Security Groups (NSGs)</b>
   - [Using Wireshark with Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
 - <b>Deploying Active Directory and Creating Users</b>
-  - [Setting Up Active Directory on Azure with Powershell ISE]
+  - [Setting Up Active Directory on Azure with Powershell ISE](https://github.com/anumkhanit/active-direct)
 
 # Interpersonal Skills
 
