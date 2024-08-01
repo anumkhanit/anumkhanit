@@ -13,9 +13,7 @@ Currently, I'm focused on:
 ## Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation (Part 1)](https://github.com/anumkhanit/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration (Part 2)](https://github.com/anumkhanit/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
+  - [Installing and Configuring osTicket on Azure VM](https://github.com/anumkhanit/os-ticket)
 - <b>Network Security Groups (NSGs)</b>
   - [Using Wireshark with Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
 - <b>Deploying Active Directory and Creating Users</b>
