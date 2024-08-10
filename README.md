@@ -8,7 +8,7 @@ My journey began with a curiosity for understanding how software and systems wor
 
 Currently, I'm focused on:
 
-- Gaining new sights on the basics of IT and IT Support at <a href="https://coursecareers.com">CourseCareers</a>
+- Gaining new sights on the IT Support at <a href="https://coursecareers.com">CourseCareers</a>
 
 ## Information Technology Projects
 
@@ -18,7 +18,9 @@ Currently, I'm focused on:
   - [Using Wireshark with Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
 - <b>Deploying Active Directory and Creating Users</b>
   - [Setting Up Active Directory on Azure with Powershell ISE](https://github.com/anumkhanit/active-direct)
-
+- <b>Building Intuition for DNS</b>
+  - [DNS Record Management and Cache Clearing](https://github.com/anumkhanit/dns-and-cache)
+ 
 # Interpersonal Skills
 
 ### Written Communication
