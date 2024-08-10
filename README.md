@@ -10,7 +10,7 @@ Currently, I'm focused on:
 
 - Gaining new sights on the IT Support at <a href="https://coursecareers.com">CourseCareers</a>
 
-## Information Technology Projects
+## Homelab Experience
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Installing and Configuring osTicket on Azure VM](https://github.com/anumkhanit/os-ticket)
