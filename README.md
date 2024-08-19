@@ -24,7 +24,7 @@ Currently, I'm focused on:
 # Other Skills
 
 ### Written Communication
-I create tutorials/guides for a diverse range of audiences, specializing in Information Technology topics.
+I create tutorials/guides for a diverse range of audiences, specializing in Information Technology and Cybersecurity topics only.
 
 # Technical Skills
 
