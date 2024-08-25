@@ -2,7 +2,7 @@
 
 ## About Me
 
-My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security, IT fundamentals, and more.
+My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security, file sharing, active directory and more.
 
 # What I'm Working On
 
