@@ -21,10 +21,10 @@ Currently, I'm focused on:
 - <b>Building Intuition for DNS</b>
   - [DNS Record Management and Cache Clearing](https://github.com/anumkhanit/dns-and-cache)
  
-# Other Skills
+# Soft & Hard Skills
 
 ### Written Communication
-I create tutorials/guides for a diverse range of audiences, specializing in Information Technology and Cybersecurity topics only.
+I create tutorials/guides for a wide range of audiences.
 
 # Technical Skills
 
