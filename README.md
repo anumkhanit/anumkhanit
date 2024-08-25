@@ -10,6 +10,8 @@ Currently, I'm focused on:
 
 - Gaining new sights on the IT Support at <a href="https://coursecareers.com">CourseCareers</a>
 
+-----
+
 ## Homelab Experience
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -20,6 +22,12 @@ Currently, I'm focused on:
   - [Setting Up Active Directory on Azure with Powershell ISE](https://github.com/anumkhanit/active-direct)
 - <b>Building Intuition for DNS</b>
   - [DNS Record Management and Cache Clearing](https://github.com/anumkhanit/dns-and-cache)
+
+-----
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
  
 # Soft & Hard Skills
 
