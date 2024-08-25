@@ -24,33 +24,15 @@ Currently, I'm focused on:
   - [DNS Record Management and Cache Clearing](https://github.com/anumkhanit/dns-and-cache)
 
 -----
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
------
  
 # Soft & Hard Skills
 
 ### Written Communication
 I create tutorials/guides and tech blogs for a wide range of audience.
 
-# Technical Skills
+-----
 
-### Content Management Systems (CMS)
-![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
-
-### Cloud Computing
-![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
-
-### Operating Systems
-![Windows 10](https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=Windows10&logoColor=white)
-![Apple](https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=Apple&logoColor=white)
-![Googlechrome](https://img.shields.io/badge/ChromeOs-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-### Computer Tools
-![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+# Tools I Have Used and Learned
 
 -----
 
