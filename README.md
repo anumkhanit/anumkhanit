@@ -24,18 +24,11 @@ Currently, I'm focused on:
   - [DNS Record Management and Cache Clearing](https://github.com/anumkhanit/dns-and-cache)
 
 -----
- 
-# Soft & Hard Skills
-
-### Written Communication
-I create tutorials/guides and tech blogs for a wide range of audience.
-
------
 
 # Tools I Have Used and Learned
 
 -----
 
 # Get in Touch
-[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anumkhanit)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anumkhanit)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anumkit@gmail.com)
