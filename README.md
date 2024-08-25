@@ -24,7 +24,7 @@ Currently, I'm focused on:
 # Soft & Hard Skills
 
 ### Written Communication
-I create tutorials/guides for a wide range of audiences.
+I create tutorials/guides and tech blogs for a wide range of audience.
 
 # Technical Skills
 
