@@ -4,11 +4,20 @@
 
 My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security, file sharing, active directory and more.
 
-# What I'm Working On
+* 🌍  I'm based in Texas
+* ✉️  You can contact me at [anumkit@gmail.com](mailto:anumkit@gmail.com)
+* 🧠  I'm learning Information Technology and Cybersecurity
+* ⚡  I'm also a writer and wanted to learn how-to code
 
-Currently, I'm focused on:
+<a href="http://www.github.com/anumkhanit"><img src="https://github-readme-stats.vercel.app/api?username=anumkhanit&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anumkhanit's GitHub stats" /></a>
 
-- Gaining new sights on the IT Support at <a href="https://coursecareers.com">CourseCareers</a>
+<a href="https://github.com/anumkhanit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anumkhanit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+-----
+
+# Currently, I'm focused on
+
+- Gaining new sights and hands-on training on the Professional IT Support at <a href="https://coursecareers.com">CourseCareers</a>
 
 -----
 
@@ -27,8 +36,10 @@ Currently, I'm focused on:
 
 # Tools I Have Used and Learned
 
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+
 -----
 
 # Get in Touch
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anumkhanit)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anumkit@gmail.com)
+
+<a href="https://www.linkedin.com/in/anumkhanit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
