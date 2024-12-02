@@ -26,7 +26,7 @@ My journey began with a curiosity for understanding how software and systems wor
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Installing and Configuring osTicket on Azure VM](https://github.com/anumkhanit/os-ticket)
 - <b>Network Security Groups (NSGs)</b>
-  - [Using Wireshark with Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
+  - [Using Wireshark within Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
 - <b>Deploying Active Directory and Creating Users</b>
   - [Setting Up Active Directory on Azure with Powershell ISE](https://github.com/anumkhanit/active-direct)
 - <b>Building Intuition for DNS</b>
