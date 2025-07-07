@@ -28,9 +28,14 @@ My journey began with a curiosity for understanding how software and systems wor
 - <b>Network Security Groups (NSGs)</b>
   - [Using Wireshark within Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
 - <b>Deploying Active Directory and Creating Users</b>
-  - [Setting Up Active Directory on Azure with Powershell ISE](https://github.com/anumkhanit/active-direct)
+  - [Preparing AD infrastructure in Azure](https://github.com/anumkhanit/preparing-ad-azure)
+  - [Deploying Active Directory]
+  - [Creating Users using Powershell]
+  - [Group Policy and Managing Accounts]
 - <b>Building Intuition for DNS</b>
-  - [DNS Record Management and Cache Clearing](https://github.com/anumkhanit/dns-and-cache)
+  - [Understanding DNS]
+- <b>Network File Shares and Permissions</b>
+  - [Network File Shares and Permission Guide]
 
 -----
 
