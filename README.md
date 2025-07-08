@@ -29,7 +29,7 @@ My journey began with a curiosity for understanding how software and systems wor
   - [Using Wireshark within Microsoft Azure Virtual Machines](https://github.com/anumkhanit/azure-wireshark-network-protocols)
 - <b>Deploying Active Directory and Creating Users</b>
   - [Preparing AD infrastructure in Azure](https://github.com/anumkhanit/preparing-ad-azure)
-  - [Deploying Active Directory]
+  - [Deploying Active Directory](https://github.com/anumkhanit/deploy-ad)
   - [Creating Users using Powershell]
   - [Group Policy and Managing Accounts]
 - <b>Building Intuition for DNS</b>
