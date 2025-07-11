@@ -31,7 +31,7 @@ My journey began with a curiosity for understanding how software and systems wor
   - [Preparing AD infrastructure in Azure](https://github.com/anumkhanit/preparing-ad-azure)
   - [Deploying Active Directory](https://github.com/anumkhanit/deploy-ad)
   - [Creating Users using Powershell](https://github.com/anumkhanit/create-users-powershell)
-  - [Group Policy and Managing Accounts]
+  - [Group Policy and Managing Accounts](https://github.com/anumkhanit/group-policy-manage)
 - <b>Building Intuition for DNS</b>
   - [Understanding DNS]
 - <b>Network File Shares and Permissions</b>
