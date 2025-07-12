@@ -33,7 +33,7 @@ My journey began with a curiosity for understanding how software and systems wor
   - [Creating Users using Powershell](https://github.com/anumkhanit/create-users-powershell)
   - [Group Policy and Managing Accounts](https://github.com/anumkhanit/group-policy-manage)
 - <b>Building Intuition for DNS</b>
-  - [Understanding DNS]
+  - [Understanding DNS](https://github.com/anumkhanit/domain-network)
 - <b>Network File Shares and Permissions</b>
   - [Network File Shares and Permission Guide]
 
