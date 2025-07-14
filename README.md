@@ -35,7 +35,7 @@ My journey began with a curiosity for understanding how software and systems wor
 - <b>Building Intuition for DNS</b>
   - [Understanding DNS](https://github.com/anumkhanit/domain-network)
 - <b>Network File Shares and Permissions</b>
-  - [Network File Shares and Permission Guide]
+  - [Network File Shares and Permission Guide](https://github.com/anumkhanit/network-file-share)
 
 -----
 
