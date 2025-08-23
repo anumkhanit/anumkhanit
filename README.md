@@ -15,7 +15,7 @@ My journey began with a curiosity for understanding how software and systems wor
 
 -----
 
-## Homelab Experience
+## Information Technology Projects
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Installing and Configuring osTicket on Azure VM](https://github.com/anumkhanit/os-ticket)
