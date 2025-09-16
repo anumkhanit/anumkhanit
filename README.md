@@ -31,6 +31,8 @@ My journey began with a curiosity for understanding how software and systems wor
   - [Understanding DNS](https://github.com/anumkhanit/domain-network)
 - <b>Network File Shares and Permissions</b>
   - [Network File Shares and Permission Guide](https://github.com/anumkhanit/network-file-share)
+- <b>SQL Database in Azure</b>
+  - [Deploying SQL Database in Azure](https://github.com/anumkhanit/sqldatabase)
 
 -----
 
