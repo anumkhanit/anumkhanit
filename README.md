@@ -12,6 +12,7 @@ My journey began with a curiosity for understanding how software and systems wor
 # Currently, I'm focusing on
 
 - Gaining new sights and hands-on training course on Information Technology at <a href="https://coursecareers.com">CourseCareers</a>
+- Understanding and learning more tools (with hands-on training) at <a href="https://www.kevtechitsupport.com">KevTech IT Support</a>
 
 -----
 
