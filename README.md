@@ -5,7 +5,7 @@ My journey began with a curiosity for understanding how software and systems wor
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [anumkit@gmail.com](mailto:anumkit@gmail.com)
 * 🧠  I'm learning Information Technology and Cybersecurity
-* ⚡  I'm also a writer and a current student at SNHU (majoring in Criminal Justice and wanted to focus on digital security) since my interest fall between law + digital, I want to understand and implement while combating cyber attacks and tigheten digital security.
+* ⚡  I'm also a writer and a current student at SNHU (majoring in Criminal Justice and wanted to focus on digital security + GDPR) since my interest fall between law + cyber, I want to understand and implement while combating cyber attacks and tigheten security through compliance.
 
 -----
 
