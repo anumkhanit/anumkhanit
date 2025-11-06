@@ -5,14 +5,14 @@ My journey began with a curiosity for understanding how software and systems wor
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [anumkit@gmail.com](mailto:anumkit@gmail.com)
 * 🧠  I'm learning Information Technology, Criminal Justice, Cybersecurity, and Government
-* ⚡  I'm also a writer and a current student at SNHU (majoring in AS Criminal Justice since I wanted to focus on law + security + GDPR, which I will move onto BS Government in National Security) since my interest fall between law + tech + cyber, I want to understand and implement while combating cyber attacks and tigheten security through compliance.
+* ⚡  I'm also a writer and a current student at SNHU since my interest fall between law + tech + cyber, I want to understand and implement while combating cyber attacks and tigheten security through compliance.
 
 -----
 
 # Current Learning Objective
 
 - Gaining new sights and hands-on training course on Information Technology at <a href="https://coursecareers.com">CourseCareers</a>
-- Understanding and learning basic tools (with hands-on training) at <a href="https://www.kevtechitsupport.com">KevTech IT Support</a>
+- Understanding and learning basic tools (with hands-on training) at <a href="https://www.kevtechitsupport.com">KevTech IT Support</a> & <a href="https://www.ibm.com/training">IBM Training</a>
 
 -----
 
