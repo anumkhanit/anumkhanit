@@ -2,7 +2,6 @@
 
 My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security, file sharing, active directory and more.
 
-* 🌍  I'm based in Texas
 * ✉️  You can contact me at [anumkit@gmail.com](mailto:anumkit@gmail.com)
 * 🧠  I'm learning Information Technology, Criminal Justice, Cybersecurity, and Government
 * ⚡  I'm also a writer and a current student at SNHU since my interest fall between law + tech + cyber, I want to understand and implement while combating cyber attacks and tigheten security through compliance.
