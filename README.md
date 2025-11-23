@@ -11,8 +11,7 @@ My journey began with a curiosity for understanding how software and systems wor
 # Current Learning Objective
 
 - Gaining new sights and hands-on training course on Information Technology at <a href="https://coursecareers.com">CourseCareers</a>
-- Understanding and learning basic tools (with hands-on training) at <a href="https://www.kevtechitsupport.com">KevTech IT Support</a> & <a href="https://academy.simplycyber.io">Simply Cyber</a> 
-
+- Understanding and learning basics (with hands-on training) at <a href="https://www.udemy.com/share/106tYg3@qt7F7g6I5XpRAKXAPnH9sx9YCoqgSQZ_XiD2tZ-E2S0-ZdR4FhsWfceP7xctFpn9Ig==/">Udemy</a> by Kevin Apolinario
 -----
 
 # Blog
