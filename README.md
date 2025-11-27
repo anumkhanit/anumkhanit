@@ -38,7 +38,8 @@ My journey began with a curiosity for understanding how software and systems wor
   - [Network File Shares and Permission Guide](https://github.com/anumkhanit/network-file-share)
 - <b>SQL Database in Azure</b>
   - [Deploying SQL Database in Azure](https://github.com/anumkhanit/sqldatabase)
-
+- <b>MDM in Microsoft Azure</b>
+  - [Setting Up Company Email with MDM in Microsoft Azure](https://github.com/anumkhanit/mdm-azure)
 -----
 
 # Tools I Have Used and Learned
